@@ -1,0 +1,2 @@
+ftp://ftp.um.ac.ir/Technical_Softwares/Industrial/Quartus/QuartusLiteSetup-16%200%200%20211-windows/QuartusLiteSetup-16.0.0.211-windows.exe
+ftp://ftp.um.ac.ir/Technical_Softwares/Industrial/Quartus/cyclone-16.0.0.211.qdz
